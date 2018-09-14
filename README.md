@@ -3,7 +3,7 @@
 # Photon OS: Linux Container Host
 
 ### Contents
-- [What is Photon OS](#what-is-photon)
+- [What is Photon OS](#what-is-photon)sd
 - [Getting Photon OS](#getting-photon)
 - [Getting Started](#getting-started)
 - [Contributing](#contributing)
